@@ -1,1 +1,1 @@
-# BGR Color Palette OpenCV
+# BGR Color Palette Opencv
